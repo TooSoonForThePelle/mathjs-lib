@@ -1,8 +1,8 @@
 {
-	"name": "_mathjs",
+	"id": "lib-mathjs",
 	"title": "Math.js",
 	"description": "LIBRARY: Math.js - This module is just a dependency for other modules and does not offer any functionality on its own. This module includes the popular Math.js library.",
-	"version": "7.5.1-fvtt2",
+	"version": "7.5.2",
 	"library": true,
 	"authors": [
 		{
@@ -14,8 +14,10 @@
 			"url": "https://mathjs.org/"
 		}
 	],
-	"minimumCoreVersion": "0.0.0",
-	"compatibleCoreVersion": "1.0.0",
+	"compatibility": {
+		"minimum": "6",
+		"verified": "10"
+	  },
 	"scripts": [
 		"math.min.js"
 	],
