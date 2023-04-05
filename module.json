@@ -21,7 +21,7 @@
 	],
 	"manifest": "https://raw.githubusercontent.com/TooSoonForThePelle/mathjs-lib/master/module.json",
 	"url": "https://github.com/League-of-Foundry-Developers/mathjs-lib",
-	"download": "https://github.com/TooSoonForThePelle/mathjs-lib/blob/master/mathjs-lib.zip",
+	"download": "https://github.com/TooSoonForThePelle/mathjs-lib/releases/latest/download/mathjs-lib.zip",
 	"media": [
 		{
 			"type": "icon",
