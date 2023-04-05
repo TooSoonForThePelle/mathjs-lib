@@ -14,8 +14,10 @@
 			"url": "https://mathjs.org/"
 		}
 	],
-	"minimumCoreVersion": "6.0",
-	"compatibleCoreVersion": "10",
+	"compatibility": {
+		"minimum": "6",
+		"verified": "10"
+	  },
 	"scripts": [
 		"math.min.js"
 	],
